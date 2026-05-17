@@ -7,6 +7,47 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/27 22:22
+---
+
+## VahidOOnLine — post 240688
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_240688_1779043954.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+‌🇸🇦 Indypersian
+
+🤖 @VahidOOnLine
+</div>
+
+## DEJradio — post 4685
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔸 خبر ۲۱
+یکشنبه ۲۷ اردیبهشت ۱۴۰۵
+
+#خبر۲۱
+@DEJradio
+</div>
+
+## alonews — post 120665
+
+<div align="center">
+  <a href="telegram/content/alonews_120665_1779043955.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈وال استریت ژورنال: ایران یک کشتی پشتیبانی متعلق به یک شرکت امنیتی چین را در نزدیکی تنگه هرمز توقیف کرد.
+
+
+🔴این اقدام به نظر می‌رسد نشانه‌ای باشد مبنی بر اینکه ایران حتی برای کشتی‌هایی که از طرف چین حرکت می‌کنند، اجازه حفاظت مسلحانه نمی‌دهد.
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/27 22:12
 ---
 
