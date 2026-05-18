@@ -7,6 +7,210 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/28 15:03
+---
+
+## VahidOOnLine — post 240783
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_240783_1779103982.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+نِت‌بلاکس اعلام کرد خاموشی اینترنت در ایران وارد هشتادمین روز شده و مدت این اختلال از ۱۸۹۶ ساعت گذشته است.
+
+نِت‌بلاکس، نهاد ناظر بر اختلالات اینترنتی، در گزارشی اعلام کرد خاموشی اینترنت در ایران وارد هشتادمین روز شده و از ۱۸۹۶ ساعت عبور کرده است. این نهاد هم‌زمان نوشته که در حالی‌ که دسترسی آزاد شهروندان به اینترنت همچنان محدود است، محتوای حامی جمهوری اسلامی در شبکه‌های اجتماعی به‌طور گسترده منتشر می‌شود.
+
+بر اساس گزارش نِت‌بلاکس، برخی کاربران در ایران گفته‌اند برای دریافت دسترسی‌های ویژه یا «سفید»، از آن‌ها خواسته شده روزانه سهمیه‌ای از محتوای تبلیغاتی منتشر کنند؛ روندی که گفته می‌شود با ابزارهای هوش مصنوعی هم کنترل می‌شود.
+‌🏁 🇬🇧 ManotoTV
+
+🤖 @VahidOOnLine
+</div>
+
+## IranIntlTV — post 337768
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_337768_1779103983.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+مسعود پزشکیان با اشاره به وضعیت وخیم اقتصادی در پی محاصره دریایی بندرهای ایران، از کاهش درآمدهای کشور خبر داد و گفت: «دولت به‌دلیل مشکلات تجارت و بازار، امکان اخذ مالیات را ندارد.»
+
+گفت‌وگو با آرش آزرمی، دبیر بخش اقتصادی ایران‌اینترنشنال
+@iranintltv
+</div>
+
+## IranIntlTV — post 337767
+
+<div align="center">
+  <img src="telegram/content/IranIntlTV_337767_1779103985.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔻روزنامه سان گزارش داد که بازیکنان تیم ملی فوتبال انگلستان در جریان جام جهانی ۲۰۲۶ در آمریکا، رختخواب‌های شخصی خود را همراه خواهند داشت تا کیفیت خواب و روند ریکاوری آن‌ها حفظ شود.
+
+🔹این تصمیم پس از شکایت‌های متعدد درباره تخت‌های خشک و سفت هتل محل اقامت آن‌ها گرفته شده است. اتحادیه فوتبال انگلیس (FA) برای تضمین خواب راحت و باکیفیت بازیکنان، تشک‌های اسفنجی سبک و بالش‌های ویژه‌ای تهیه کرده است. از بازیکنان خواسته شده پتوهای شخصی خود را هم بیاورند تا اتاق هتل حس خانه را داشته باشند.
+
+🔹بر اساس این گزارش، کادر فنی تیم ملی انگلستان به رهبری توماس توخل قصد دارد برای جلوگیری از خستگی و مشکلات ناشی از سفرهای طولانی در آمریکا، شرایط اقامت بازیکنان را تا حد ممکن مشابه خانه فراهم کند.
+
+🔹این تصمیم در حالی گرفته شده که فاصله زیاد شهرهای میزبان جام جهانی ۲۰۲۶، یکی از نگرانی‌های اصلی تیم‌های حاضر در این رقابت‌ها عنوان شده است.
+
+@iranintltvsport
+</div>
+
+## IranIntlTV — post 337766
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_337766_1779103985.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+دادگاه رسیدگی‌ به پرونده متهمان حمله با چاقو به پوریا زراعتی، مجری تلویزیون ایران‌اینترنشنال، در لندن آغاز می‌شود.
+
+رضا محدث، خبرنگار ایران‌اینترنشنال، گزارش می‌دهد
+@iranintltv
+</div>
+
+## Shin_Persian — post 6058
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+DefenceGeek 🇬🇧 ✓ @DefenceGeek Mon, 18 May 2026 09:46:18 UTC UPDATE: Fairford Bomber Training Flights #FreeIran‌ --- Operation EPIC FURY / Project FREEDOM --- As of a short while ago, @MATA_osint team members have tracked/identified a total of 50 training…
+</div>
+
+## Shin_Persian — post 6057
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+DefenceGeek 🇬🇧 ✓ @DefenceGeek
+Mon, 18 May 2026 09:46:18 UTC
+
+UPDATE: Fairford Bomber Training Flights #FreeIran‌
+--- Operation EPIC FURY / Project FREEDOM ---
+
+As of a short while ago, @MATA_osint team members have tracked/identified a total of 50 training sorties by US Air Force B-1B "Lancer" and B-52H "Stratofortress" bombers from RAF Fairford (EGVA) since the ceasefire began.
+
+These comprise:
+- 19 missions by B-52s (30 launches by 8 aircraft)
+- 31 missions by B-1s (54 launches by 13 aircraft)
+- 2 of the B-1s have not flown a single training sortie (yet)
+
+Huge thanks as always to our team members @jamjake01 @Saint1Mil @Andyyyyrrrr @ArmchairAdml @LHA2709 @havoc_aviation
+
+(Photos used with permission @havoc_aviation )
+
+فارسی
+
+به‌روزرسانی: پروازهای آموزشی بمب‌افکن‌های فایرفورد #FreeIran‌
+--- عملیات خشم حماسی (Operation EPIC FURY) / پروژه آزادی ---
+
+تا لحظاتی پیش، اعضای تیم @MATA_osint در مجموع ۵۰ سورتی پرواز آموزشی توسط بمب‌افکن‌های نیروی هوایی ایالات متحده (USAF) از نوع B-1B "Lancer" و B-52H "Stratofortress" را از پایگاه هوایی سلطنتی فایرفورد (EGVA) از زمان آغاز آتش‌بس ردیابی و شناسایی کرده‌اند.
+
+این موارد شامل:
+- ۱۹ ماموریت توسط B-52ها (۳۰ پرواز توسط ۸ فروند هواپیما)
+- ۳۱ ماموریت توسط B-1ها (۵۴ پرواز توسط ۱۳ فروند هواپیما)
+- ۲ فروند از B-1ها (هنوز) حتی یک سورتی پرواز آموزشی انجام نداده‌اند.
+
+سپاس فراوان طبق معمول از اعضای تیم ما:
+@jamjake01 @Saint1Mil @Andyyyyrrrr @ArmchairAdml @LHA2709 @havoc_aviation
+
+(عکس‌ها با کسب اجازه استفاده شده است @havoc_aviation )
+
+𝕏 · @shin_persian
+</div>
+
+## ManotoTV — post 105591
+
+<div align="center">
+  <img src="telegram/content/ManotoTV_105591_1779103987.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+نِت‌بلاکس اعلام کرد خاموشی اینترنت در ایران وارد هشتادمین روز شده و مدت این اختلال از ۱۸۹۶ ساعت گذشته است.
+
+نِت‌بلاکس، نهاد ناظر بر اختلالات اینترنتی، در گزارشی اعلام کرد خاموشی اینترنت در ایران وارد هشتادمین روز شده و از ۱۸۹۶ ساعت عبور کرده است. این نهاد هم‌زمان نوشته که در حالی‌ که دسترسی آزاد شهروندان به اینترنت همچنان محدود است، محتوای حامی جمهوری اسلامی در شبکه‌های اجتماعی به‌طور گسترده منتشر می‌شود.
+
+بر اساس گزارش نِت‌بلاکس، برخی کاربران در ایران گفته‌اند برای دریافت دسترسی‌های ویژه یا «سفید»، از آن‌ها خواسته شده روزانه سهمیه‌ای از محتوای تبلیغاتی منتشر کنند؛ روندی که گفته می‌شود با ابزارهای هوش مصنوعی هم کنترل می‌شود.
+</div>
+
+## RadioFarda — post 157310
+
+<div align="center">
+  <img src="telegram/content/RadioFarda_157310_1779103988.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔸صدراعظم آلمان آنچه که «از سرگیری حملات ایران» به امارات متحده عربی و دیگر شرکا خواند، را «قویاً» محکوم کرد و گفت تهران باید تهدید همسایگان خود را متوقف کرده و تنگه هرمز را بدون محدودیت باز نگه دارد.
+
+🔸فردریش مرتس روز دوشنبه ۲۸ اردیبهشت در پیامی در شبکه ایکس نوشت: «حملات به تأسیسات هسته‌ای تهدیدی برای امنیت مردم در سراسر منطقه است. نباید هیچ‌گونه تشدید بیشتری در خشونت رخ دهد».
+
+🔸او همچنین گفت که ایران باید وارد مذاکرات جدی با ایالات متحده شود.
+
+🔸مقام‌های امارات روز یکشنبه اعلام کردند که یک حمله پهپادی باعث آتش‌سوزی در یک نیروگاه هسته‌ای این کشور شده است.
+
+@RadioFarda
+</div>
+
+## IranianMinds — post 20330
+
+<div align="center">
+  <img src="telegram/content/IranianMinds_20330_1779103988.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴 بعضی جوونا و‌ نوجوونا تو‌ این کشور یه خوشی داشتن اونم میخوان ازشون بگیرن
+
+معاون نظارت بنیاد ملی بازی های رایانه جمهوری اسلامی اعلام کرد که قراره یه «گیم سنتر مرکزی» بسازن که همه سایت‌های دانلود بازی، لینک‌هاشون رو از اون رد کنن تا قبل از انتشار بازی‌ها رو چک کنن که با قوانین اسلامی سازگار باشه و روی نوجوونا تاثیری نداشته باشه !
+
+@IranianMinds
+</div>
+
+## IranianMinds — post 20329
+
+<div align="center">
+  <img src="telegram/content/IranianMinds_20329_1779103989.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴نت‌بلاکس دوشنبه ۲۸ اردیبهشت اعلام کرد هشتادمین روز از قطع اینترنت در ایران است و مدتش به ۱۸۹۶ ساعت رسیده است.
+
+بر اساس گزارش این نهاد ناظر بر اینترنت جهانی، همزمان با تداوم این وضعیت، محتوای حامی حکومت، شبکه‌های اجتماعی را پر کرده است.
+این نهاد همچنین اعلام کرد برخی از ایرانیانی که برای دریافت اینترنت«پرو» یا دسترسی سیم‌کارت سفید اقدام کرده‌اند می‌گویند از آن‌ها خواسته می‌شود سهمیه‌ایی از پست‌های تبلیغاتی روزانه منتشر کنند.
+نت‌بلاکس افزود: این فعالیت‌ها با استفاده از هوش مصنوعی نظارت می‌شود.
+
+@IranianMinds
+</div>
+
+## manototv — post 105591
+
+<div align="center">
+  <img src="telegram/content/manototv_105591_1779103990.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+نِت‌بلاکس اعلام کرد خاموشی اینترنت در ایران وارد هشتادمین روز شده و مدت این اختلال از ۱۸۹۶ ساعت گذشته است.
+
+نِت‌بلاکس، نهاد ناظر بر اختلالات اینترنتی، در گزارشی اعلام کرد خاموشی اینترنت در ایران وارد هشتادمین روز شده و از ۱۸۹۶ ساعت عبور کرده است. این نهاد هم‌زمان نوشته که در حالی‌ که دسترسی آزاد شهروندان به اینترنت همچنان محدود است، محتوای حامی جمهوری اسلامی در شبکه‌های اجتماعی به‌طور گسترده منتشر می‌شود.
+
+بر اساس گزارش نِت‌بلاکس، برخی کاربران در ایران گفته‌اند برای دریافت دسترسی‌های ویژه یا «سفید»، از آن‌ها خواسته شده روزانه سهمیه‌ای از محتوای تبلیغاتی منتشر کنند؛ روندی که گفته می‌شود با ابزارهای هوش مصنوعی هم کنترل می‌شود.
+</div>
+
+## alonews — post 120836
+
+<div align="center">
+  <a href="telegram/content/alonews_120836_1779103990.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈ادعای رویترز به نقل از منابع: پاکستان بر اساس توافقنامه دفاع مشترک، ناوگانی از جت‌های جنگنده، هشت هزار سرباز و سامانه دفاع هوایی در عربستان سعودی مستقر کرده است
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 120835
+
+<div align="center">
+  <a href="telegram/content/alonews_120835_1779103991.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈لاوروف: پروژه نیروگاه هسته‌ای بوشهر به هیچ‌کس جز روسیه و ایران تعلق ندارد.
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/28 14:52
 ---
 
