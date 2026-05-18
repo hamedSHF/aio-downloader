@@ -40,6 +40,14 @@ on:
           - '128'
           - '64'
         default: '320'
+      bundle_all:
+        description: 'Bundle all downloaded files into a single ZIP archive before splitting'
+        type: boolean
+        default: false
+      upload_as_release:
+        description: 'Upload files as a GitHub Release (uncheck = split push to repo)'
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -567,24 +575,87 @@ jobs:
           echo "📁 Contents of $OUTPUT_FOLDER:"
           ls -lah "$OUTPUT_FOLDER"
 
-      # ── Zip all files (no size threshold) ─────────────────
+      # ── Zip all files (supports per‑file and bundled mode) ─
       - name: '📦 Zip all files'
         run: |
           OUTPUT_FOLDER="youtube"
-          echo "📦 Zipping all files in $OUTPUT_FOLDER (split at 99MB parts)..."
-          for f in "$OUTPUT_FOLDER"/*; do
-            [ -f "$f" ] || continue
-            fname=$(basename "$f")
-            echo "🗜️ Zipping: $fname"
-            zip -j -s 99m "$OUTPUT_FOLDER/${fname}.zip" "$f"
-            rm "$f"
-          done
+          BUNDLE_ALL="${{ github.event.inputs.bundle_all }}"
+          UPLOAD_AS_RELEASE="${{ github.event.inputs.upload_as_release }}"
+          if [ "$UPLOAD_AS_RELEASE" = "true" ]; then
+            METHOD="release"
+          else
+            METHOD="split_push"
+          fi
+
+          if [ "$BUNDLE_ALL" = "true" ]; then
+            # ── Bundle mode: one ZIP containing all files ──
+            BUNDLE_TMP="bundle_tmp"
+            mkdir -p "$BUNDLE_TMP"
+            # Move all files from youtube into bundle_tmp
+            shopt -s dotglob nullglob
+            mv "$OUTPUT_FOLDER"/* "$BUNDLE_TMP"/ 2>/dev/null || true
+            shopt -u dotglob nullglob
+
+            if [ -z "$(ls -A "$BUNDLE_TMP" 2>/dev/null)" ]; then
+              echo "No files to bundle."
+              rm -rf "$BUNDLE_TMP"
+              exit 0
+            fi
+
+            RAND_BUNDLE=$(tr -dc 'a-z' </dev/urandom | head -c5)
+            BUNDLE_ZIP="youtube_bundle_${RAND_BUNDLE}.zip"
+            echo "📦 Creating bundle ZIP: $BUNDLE_ZIP"
+
+            if [ "$METHOD" = "release" ]; then
+              # Unsplit first, split if > 1950 MB
+              (cd "$BUNDLE_TMP" && zip -r "../${OUTPUT_FOLDER}/${BUNDLE_ZIP}" *)
+              FULLZIP="${OUTPUT_FOLDER}/${BUNDLE_ZIP}"
+              SIZE=$(stat -c%s "$FULLZIP" 2>/dev/null || echo 0)
+              if [ "$SIZE" -gt 2044723200 ]; then
+                echo "Bundle ZIP larger than 1950 MiB, splitting"
+                rm "$FULLZIP"
+                (cd "$BUNDLE_TMP" && zip -r -s 1950m "../${OUTPUT_FOLDER}/${BUNDLE_ZIP}" *)
+              fi
+            else
+              # split_push: always 99 MB parts
+              (cd "$BUNDLE_TMP" && zip -r -s 99m "../${OUTPUT_FOLDER}/${BUNDLE_ZIP}" *)
+            fi
+            rm -rf "$BUNDLE_TMP"
+          else
+            # ── Per‑file mode: one ZIP per file ──
+            for f in "$OUTPUT_FOLDER"/*; do
+              [ -f "$f" ] || continue
+              fname=$(basename "$f")
+              echo "🗜️ Zipping: $fname"
+              if [ "$METHOD" = "release" ]; then
+                zip -j "$OUTPUT_FOLDER/${fname}.zip" "$f"
+                FULLZIP="${OUTPUT_FOLDER}/${fname}.zip"
+                SIZE=$(stat -c%s "$FULLZIP" 2>/dev/null || echo 0)
+                if [ "$SIZE" -gt 2044723200 ]; then
+                  echo "ZIP larger than 1950 MiB, splitting"
+                  rm "$FULLZIP"
+                  zip -j -s 1950m "$OUTPUT_FOLDER/${fname}.zip" "$f"
+                fi
+              else
+                zip -j -s 99m "$OUTPUT_FOLDER/${fname}.zip" "$f"
+              fi
+              rm "$f"
+            done
+          fi
           echo "✅ Zip phase complete."
           echo "📁 Final contents of $OUTPUT_FOLDER:"
           ls -lah "$OUTPUT_FOLDER"
 
-      # ── Upload ────────────────────────────────────────────
+      # ── Prepare asset list (for release method) ───────────
+      - name: '📋 Prepare asset list'
+        run: |
+          ls -1 youtube > youtube_assets.txt
+          echo "Assets to upload:"
+          cat youtube_assets.txt
+
+      # ── Upload to repository (split_push) ────────────────
       - name: '📤 Commit & Push Changes'
+        if: ${{ github.event.inputs.upload_as_release == 'false' }}
         run: |
           set -e
           OUTPUT_FOLDER="youtube"
@@ -622,6 +693,34 @@ jobs:
             fi
           done
           echo "✅ All files uploaded to the 'youtube' folder."
+
+      # ── Create GitHub Release (release method) ────────────
+      - name: '🚀 Create Release and upload assets'
+        if: ${{ github.event.inputs.upload_as_release == 'true' }}
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          OUTPUT_DIR="youtube"
+          if [ ! -s youtube_assets.txt ]; then
+            echo "No assets to release."
+            exit 0
+          fi
+          RAND5=$(tr -dc 'a-z' </dev/urandom | head -c5)
+          TAG="youtube-downloader-${RAND5}"
+          echo "Creating release tag: $TAG"
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git tag "$TAG" -m "YouTube download release"
+          git push origin "$TAG"
+          ASSET_ARGS=""
+          while IFS= read -r file; do
+            ASSET_ARGS="$ASSET_ARGS ${OUTPUT_DIR}/$file"
+          done < youtube_assets.txt
+          gh release create "$TAG" $ASSET_ARGS \
+            --title "youtube-downloader-${RAND5}" \
+            --notes "Automated release from YouTube Download workflow." \
+            --target "${{ github.ref_name }}"
+          echo "Release '$TAG' created with assets."
 
       # ── Cleanup ───────────────────────────────────────────
       - name: '🧹 Cleanup'
