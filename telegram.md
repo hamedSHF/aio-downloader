@@ -7,6 +7,217 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/29 21:52
+---
+
+## VahidOOnLine — post 241023
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_241023_1779214979.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+♦️ جی‌دی ونس، معاون رئیس‌جمهوری آمریکا، اعلام کرد که دولت ترامپ برای دستیابی به توافقی جهت پایان دادن به جنگ تلاش می‌کند، اما او همچنان شاهد وجود شکاف و گسست در میان سران ایران است و موضع مذاکراتی تهران شفاف نیست.
+
+ونس در نشست خبری روز سه‌شنبه ۲۹ اردیبهشت، خبرنگاران در کاخ سفید گفت: «خودِ ایرانی‌ها هم دقیقا مطمئن نیستند که می‌خواهند در چه مسیری حرکت کنند؛ آن‌ها در حال حاضر کشوری چندپارچه و دارای شکاف هستند.»
+
+او در ادامه افزود: «در ساختار حاکمیتی این کشور، رهبر وجود دارد و در رده‌های پایین‌تر از او نیز مقامات زیادی هستند که بر روند مذاکرات نفوذ دارند. به همین دلیل، گاهی اوقات اصلا مشخص نیست که موضع واقعی تیم مذاکره‌کننده چیست.»
+
+معاون رئیس‌جمهوری آمریکا با اشاره به اینکه هنوز روشن نیست این تشتت آرا ناشی از ضعف در هماهنگی است یا سوءنیت، تاکید کرد که نتیجه این وضعیت، ایجاد فرآیندی مبهم و سردرگم‌کننده بوده است. ونس در پایان گفت: «با اطمینان می‌گویم که گاهی درک این نکته که ایرانی‌ها دقیقا می‌خواهند از این مذاکرات به چه هدفی دست یابند، بسیار دشوار است.»
+‌🇸🇦 Indypersian
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 241022
+
+<div align="center">
+  <a href="telegram/content/VahidOOnLine_241022_1779214980.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ولادیمیر پوتین، رئیس‌جمهوری روسیه، برای دیدار با شی جین‌پینگ وارد چین شد؛ سفری که کمتر از یک هفته پس از سفر دونالد ترامپ به پکن انجام می‌شود و توجه زیادی را به خود جلب کرده است.
+کرملین اعلام کرده پوتین و شی در این سفر درباره همکاری‌های اقتصادی، مسائل منطقه‌ای و روابط بین‌المللی گفت‌وگو خواهند کرد. این سفر همزمان با بیست‌وپنجمین سالگرد پیمان دوستی چین و روسیه برگزار می‌شود.
+چین که پس از جنگ اوکراین به مهم‌ترین شریک تجاری روسیه تبدیل شده، تلاش می‌کند هم روابط نزدیک خود با مسکو را حفظ کند و هم روابط باثباتی با آمریکا داشته باشد.
+مقام‌های روسی گفته‌اند صادرات نفت روسیه به چین در سه‌ماهه نخست ۲۰۲۶ افزایش یافته و دو کشور در حوزه انرژی به توافق‌های مهمی نزدیک شده‌اند. پوتین نیز روابط مسکو و پکن را عاملی برای «ثبات و بازدارندگی» در جهان توصیف کرده است.
+‌🏁 🇬🇧 ManotoTV
+
+🤖 @VahidOOnLine
+</div>
+
+## FoxNewsTwitter — post 341951
+
+<div align="center">
+  <a href="telegram/content/FoxNewsTwitter_341951_1779214980.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+JUST IN: Vice President Vance speaks on the tragic loss of his personal friend Charlie Kirk, calling his assassination an "unacceptable" tragedy that should outrage every American.
+
+"Charlie was a very, very dear friend. But more importantly than that, Charlie was a father of two beautiful kids, and he did not deserve to have all of those moments with his kids, all of those moments with his beautiful wife taken from them in the way that that happened."
+
+"I would expect everybody, everybody with a heart or a conscience would say whatever we agreed or disagreed with about his particular viewpoints. This is a tragedy, and it's totally unacceptable that it happens in the United States of America."
+</div>
+
+## FoxNewsTwitter — post 341950
+
+<div align="center">
+  <a href="telegram/content/FoxNewsTwitter_341950_1779214982.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+NEW: VP Vance says "it certainly seems like something fishy is there" when asked about the DOJ's immigration fraud investigation into Squad member Ilhan Omar.
+
+"I mean, you read the things about Ilhan Omar and about, you know, who she married and whether she didn't marry this person or that person..."
+
+"We're going to take a look at it. If we think that there's a crime, we're going to prosecute that crime."
+</div>
+
+## FoxNewsTwitter — post 341949
+
+<div align="center">
+  <img src="telegram/content/FoxNewsTwitter_341949_1779214984.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+NEW: VP Vance reveals that dealing with Iran is highly unstable and that the administration faces a fractured regime where it's "hard to figure out exactly what it is that the Iranians want."
+
+"It's not sometimes totally clear what the negotiating position of the team is. And I don't know if that's sometimes bad communication. If that's bad faith, I don't- I wouldn't pretend to venture a guess there.”
+
+“But I will say with confidence, it's sometimes hard to figure out exactly what it is that the Iranians want to accomplish out of the negotiation. So what we've done is try to be as clear as possible.”
+
+@aishahhasnie
+</div>
+
+## FoxNewsTwitter — post 341948
+
+<div align="center">
+  <a href="telegram/content/FoxNewsTwitter_341948_1779214984.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+NEW: VP JD Vance pushes back on media criticism surrounding the new fund created for Americans who say they were unfairly targeted by federal agencies:
+
+REPORTER: "I understand that everybody is eligible to apply for this, but I mean, you're eligible, but I assume you're not going to apply... Isn't it just as easy to say that people that attacked police officers should not get taxpayer money from this fund?"
+
+VP VANCE: "We're not trying to give money to anybody who attacked a police officer... We're trying to compensate people where the book was thrown at them, they were mistreated by the legal system."
+
+"I'd encourage everybody Democrat, Republican, independent, let's turn the page on this thing that we did under the last administration where we tried to throw people in prison because they had the wrong politics."
+</div>
+
+## IranIntlTV — post 337978
+
+<div align="center">
+  <a href="https://t.me/IranintlTV/337978" target="_blank">📎 Download file</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🎧نسخه صوتی تیتراول با نیوشا صارمی: ترامپ: شاید همین آخر هفته به ایران حمله کنیم؛ عملیات فریب یا تعویق حمله؟
+@iranintlTV
+</div>
+
+## IranIntlTV — post 337977
+
+<div align="center">
+  <img src="telegram/content/IranIntlTV_337977_1779214987.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+«برنامه با کامبیز حسینی» این هفته پخش نمی‌شود
+«برنامه» بعدی، دوشنبه ۴ خرداد، ساعت ۱۱ شب به‌وقت تهران
+
+@iranintltv
+</div>
+
+## IranIntlTV — post 337976
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_337976_1779214987.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+مهدی مهدوی‌آزاد در برنامه «چشم‌انداز» در واکنش به اظهارات پزشکیان درباره فروش نرفتن نفت و بحران اقتصادی گفت:«صریح‌تر شدن لحن پزشکیان نشان از عقب‌نشینی حکومت دربرابر واقعیت‌های سخت یا هرج‌ومرج در قوه مجریه دارد؛ روندی که می‌تواند احتمال استعفا و فروپاشی نهاد اجرایی را افزایش دهد.»
+@iranintltv
+</div>
+
+## ManotoTV — post 105652
+
+<div align="center">
+  <a href="telegram/content/ManotoTV_105652_1779214988.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ولادیمیر پوتین، رئیس‌جمهوری روسیه، برای دیدار با شی جین‌پینگ وارد چین شد؛ سفری که کمتر از یک هفته پس از سفر دونالد ترامپ به پکن انجام می‌شود و توجه زیادی را به خود جلب کرده است.
+کرملین اعلام کرده پوتین و شی در این سفر درباره همکاری‌های اقتصادی، مسائل منطقه‌ای و روابط بین‌المللی گفت‌وگو خواهند کرد. این سفر همزمان با بیست‌وپنجمین سالگرد پیمان دوستی چین و روسیه برگزار می‌شود.
+چین که پس از جنگ اوکراین به مهم‌ترین شریک تجاری روسیه تبدیل شده، تلاش می‌کند هم روابط نزدیک خود با مسکو را حفظ کند و هم روابط باثباتی با آمریکا داشته باشد.
+مقام‌های روسی گفته‌اند صادرات نفت روسیه به چین در سه‌ماهه نخست ۲۰۲۶ افزایش یافته و دو کشور در حوزه انرژی به توافق‌های مهمی نزدیک شده‌اند. پوتین نیز روابط مسکو و پکن را عاملی برای «ثبات و بازدارندگی» در جهان توصیف کرده است.
+</div>
+
+## FarsiVOA — post 218151
+
+<div align="center">
+  <a href="telegram/content/FarsiVOA_218151_1779214989.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+آیا به قدر کافی به موج شتابناک قتل حکومتیِ شهروندان در ایران توجه داریم؟ پاسخ مبهم و چندلایه است. به‌رغم هر پاسخی اما در میدان، ضروری دانستیم که هشدار بدهیم: توجه، توجه: جمهوری اسلامی مشغول اعدام است
+</div>
+
+## Persian_Trend_Official — post 14486
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+تا دقایقی دیگه لایو امشب آغاز میشه
+</div>
+
+## Dirty_Kids — post 389769
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+حالا ما اعصابمون کیریه از دست ترامپ و فحش میدیم شما عرزشیای پشگل مغز چرا ذوق می‌کنین؟ حواستون هست که همه این دعوا سر کون شماست یا نه؟؟ :)))
+
+
+
+@Dirty_Kids 👻
+</div>
+
+## Dirty_Kids — post 389768
+
+<div align="center">
+  <a href="telegram/content/Dirty_Kids_389768_1779214990.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+گیر چه کصخلایی افتادیم
+نصف طرفداراشون افغانیا هستن
+
+
+@Dirty_Kids 👻
+</div>
+
+## manototv — post 105652
+
+<div align="center">
+  <a href="telegram/content/manototv_105652_1779214991.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ولادیمیر پوتین، رئیس‌جمهوری روسیه، برای دیدار با شی جین‌پینگ وارد چین شد؛ سفری که کمتر از یک هفته پس از سفر دونالد ترامپ به پکن انجام می‌شود و توجه زیادی را به خود جلب کرده است.
+کرملین اعلام کرده پوتین و شی در این سفر درباره همکاری‌های اقتصادی، مسائل منطقه‌ای و روابط بین‌المللی گفت‌وگو خواهند کرد. این سفر همزمان با بیست‌وپنجمین سالگرد پیمان دوستی چین و روسیه برگزار می‌شود.
+چین که پس از جنگ اوکراین به مهم‌ترین شریک تجاری روسیه تبدیل شده، تلاش می‌کند هم روابط نزدیک خود با مسکو را حفظ کند و هم روابط باثباتی با آمریکا داشته باشد.
+مقام‌های روسی گفته‌اند صادرات نفت روسیه به چین در سه‌ماهه نخست ۲۰۲۶ افزایش یافته و دو کشور در حوزه انرژی به توافق‌های مهمی نزدیک شده‌اند. پوتین نیز روابط مسکو و پکن را عاملی برای «ثبات و بازدارندگی» در جهان توصیف کرده است.
+</div>
+
+## alonews — post 121165
+
+<div align="center">
+  <a href="telegram/content/alonews_121165_1779214992.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈جی‌دی ونس : هر وقت حمله پهپادی یا موشکی به هر جایی بخوره، مخصوصاً به مناطق غیرنظامی
+- اصلاً چیزی نیست که خوشمون بیاد ببینیم
+- ولی خب تو آتش‌بس‌ها این چیزا بعضی وقتا پیش میاد و همیشه همه‌چی کامل و بی‌نقص نیست؛ تو غزه هم دیدیم.
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/29 21:42
 ---
 
