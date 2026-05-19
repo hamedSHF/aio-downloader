@@ -7,6 +7,233 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/29 18:02
+---
+
+## VahidOOnLine — post 240977
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_240977_1779201163.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+وزارت خزانه‌داری آمریکا اعلام کرد واشینگتن تحریم‌های تازه‌ای علیه جمهوری اسلامی اعمال کرده است
+
+وزارت خزانه‌داری آمریکا ۱۲ نفر، از جمله چهار ایرانی، یک مصری، پنج فلسطینی، یک اسپانیایی و یک شهروند ترکیه را در فهرست تحریم‌ها قرار داد.
+
+همچنین ۲۹ شرکت و نهاد و ۱۹ کشتی نیز به فهرست تحریم‌های آمریکا اضافه شدند.
+‌🏁 🇬🇧 IranintlTV
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 240976
+
+<div align="center">
+  <a href="telegram/content/VahidOOnLine_240976_1779201164.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+سازمان جهانی بهداشت شیوع ابولا در جمهوری دموکراتیک کنگو و اوگاندا را وضعیت اضطراری بهداشت عمومی با اهمیت بین‌المللی اعلام کرده است. تاکنون ده‌ها مورد مشکوک و چندین مورد مرگ ثبت شده و برخی مبتلایان از کنگو به اوگاندا سفر کرده‌اند.
+سازمان جهانی بهداشت این وضعیت را به دلیل گسترش فرامرزی، افزایش سریع موارد، مرگ کادر درمان و ضعف زیرساخت‌های بهداشتی اضطراری اعلام کرده است.
+در واکنش به شیوع، برخی کشورها از جمله آمریکا محدودیت‌های سفر اعمال کرده و تیم‌های بین‌المللی برای کنترل بیماری به منطقه اعزام شده‌اند.
+مقامات تاکید کرده‌اند خطر برای عموم مردم خارج از مناطق درگیر پایین است، اما بیماری از طریق تماس مستقیم با مایعات بدن افراد مبتلا منتقل می‌شود و می‌تواند کشنده باشد. علائم بیماری شامل تب ناگهانی، خستگی شدید، درد عضلانی، اسهال، استفراغ و در موارد شدید خونریزی است.
+‌🏁 🇬🇧 ManotoTV
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 240975
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_240975_1779201164.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+♦️ اسکات بسنت، وزیر خزانه‌داری آمریکا، روز سه‌شنبه ۲۹ اردیبهشت در نشست مبارزه با تامین مالی تروریسم در پاریس، از متحدان غربی و آسیایی خواست تا با جدیتی بیشتر، شبکه‌های مالی و بانکداری سایه‌ای جمهوری اسلامی را متلاشی کنند. او تاکید کرد که شرکای اروپایی باید با بستن شعب بانکی، افشای شرکت‌های صوری و تحریم حامیان مالی ایران، در کنار واشنگتن بایستند.
+ 
+این درخواست در راستای برنامه تحریمی جدید دولت ترامپ موسوم به «خشم اقتصادی» (Economic Fury) مطرح شده است؛ طرحی که هدف آن اعمال فشار بر تهران جهت بازگشایی تنگه هرمز و آزادسازی جریان نفت است. وزارت خزانه‌داری آمریکا در چارچوب این برنامه، تاکنون نزدیک به نیم میلیارد دلار ارز دیجیتال مرتبط با حکومت ایران را مسدود کرده است.
+ 
+وزیر خزانه‌داری آمریکا همچنین از بازنگری و حذف نام‌های قدیمی و منقضی‌شده از لیست تحریم‌ها (SDN) خبر داد تا بانک‌ها بتوانند روی پیچیده‌ترین شگردهای دور زدن تحریم‌ها تمرکز کنند. بسنت گفت این وزارتخانه رویکردی پویا را دنبال خواهد کرد و در صورت تغییر رفتار جبهه مقابل، آماده تعدیل تحریم‌ها خواهد بود.
+‌🇸🇦 Indypersian
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 240974
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_240974_1779201165.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+وزارت دفاع امارات متحده عربی اعلام کرد در ۴۸ ساعت گذشته شش پهپاد را شناسایی و با آن‌ها مقابله کرده است.
+این وزارتخانه افزود این پهپادها از خاک عراق پرتاب شده بودند.
+
+روز یک‌شنبه نیز وزارت دفاع امارات متحده عربی از مقابله با سه پهپاد شلیک‌شده از مرزهای غربی خبر داد. بر اساس این گزارش، پدافند هوایی این کشور دو فروند از پهپادها را منهدم کرد، اما پهپاد سوم به یک ژنراتور برق در خارج از محدوده داخلی نیروگاه هسته‌ای براکه در منطقه الظفره اصابت کرد.
+‌🏁 🇬🇧 IranintlTV
+
+🤖 @VahidOOnLine
+</div>
+
+## IranIntlTV — post 337940
+
+<div align="center">
+  <img src="telegram/content/IranIntlTV_337940_1779201165.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+وزارت خزانه‌داری آمریکا اعلام کرد واشینگتن تحریم‌های تازه‌ای علیه جمهوری اسلامی اعمال کرده است
+
+وزارت خزانه‌داری آمریکا ۱۲ نفر، از جمله چهار ایرانی، یک مصری، پنج فلسطینی، یک اسپانیایی و یک شهروند ترکیه را در فهرست تحریم‌ها قرار داد.
+
+همچنین ۲۹ شرکت و نهاد و ۱۹ کشتی نیز به فهرست تحریم‌های آمریکا اضافه شدند.
+https://iranintl.com/202605198756
+</div>
+
+## IranIntlTV — post 337939
+
+<div align="center">
+  <img src="telegram/content/IranIntlTV_337939_1779201166.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+وزارت دفاع امارات متحده عربی اعلام کرد در ۴۸ ساعت گذشته شش پهپاد را شناسایی و با آن‌ها مقابله کرده است.
+این وزارتخانه افزود این پهپادها از خاک عراق پرتاب شده بودند.
+
+روز یک‌شنبه نیز وزارت دفاع امارات متحده عربی از مقابله با سه پهپاد شلیک‌شده از مرزهای غربی خبر داد. بر اساس این گزارش، پدافند هوایی این کشور دو فروند از پهپادها را منهدم کرد، اما پهپاد سوم به یک ژنراتور برق در خارج از محدوده داخلی نیروگاه هسته‌ای براکه در منطقه الظفره اصابت کرد.
+https://iranintl.com/202605190960
+</div>
+
+## Shin_Persian — post 6089
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Shin ✓ @hey_itsmyturn
+Tue, 19 May 2026 14:31:14 UTC
+
+𝐄𝐜𝐨𝐧𝐨𝐦𝐢𝐜 𝐅𝐮𝐫𝐲 targets Iran's shadow banking system and petroleum smuggling networks, designating over 50 entities including the 𝐀𝐦𝐢𝐧 𝐄𝐱𝐜𝐡𝐚𝐧𝐠𝐞 currency house and 19 vessels that collectively facilitate billions in sanctions evasion revenue.
+
+𝐈𝐍𝐃𝐈𝐕𝐈𝐃𝐔𝐀𝐋𝐒:
+• 𝐘𝐨𝐮𝐬𝐞𝐟 𝐄𝐛𝐫𝐚𝐡𝐢𝐦𝐢 (Turkish/Iranian/Dominican national) - Owner and operator of Amin Exchange, maintains multiple citizenships through investment schemes
+• 𝐒𝐚𝐦𝐚𝐝 𝐍𝐞𝐦𝐚𝐭𝐢 (Iranian national) - CEO of Amin Exchange and former IRGC officer
+• 𝐀𝐥𝐢 𝐇𝐚𝐳𝐫𝐚𝐭𝐢 𝐂𝐡𝐚𝐤𝐡𝐞𝐫𝐥𝐨 (Turkey-based Iranian national) - Board member of Amin Exchange
+• 𝐌𝐚𝐡𝐦𝐨𝐮𝐝 𝐄𝐛𝐫𝐚𝐡𝐢𝐦𝐢 (Turkish/Iranian national) - Brother of Yousef Ebrahimi, Amin Exchange employee
+
+𝐄𝐍𝐓𝐈𝐓𝐈𝐄𝐒:
+• 𝐄𝐛𝐫𝐚𝐡𝐢𝐦𝐢 𝐚𝐧𝐝 𝐀𝐬𝐬𝐨𝐜𝐢𝐚𝐭𝐞𝐬 𝐏𝐚𝐫𝐭𝐧𝐞𝐫𝐬𝐡𝐢𝐩 𝐂𝐨𝐦𝐩𝐚𝐧𝐲 (𝐀𝐦𝐢𝐧 𝐄𝐱𝐜𝐡𝐚𝐧𝐠𝐞) - Iran-based foreign currency exchange house facilitating hundreds of millions in transactions for sanctioned Iranian banks including NIOC and PGPICC
+• 𝐍𝐢𝐧𝐠𝐛𝐨 𝐉𝐢𝐚𝐫𝐮𝐢 𝐓𝐫𝐚𝐝𝐢𝐧𝐠 𝐂𝐨., 𝐋𝐭𝐝. - China-based front company
+• 𝐒𝐭𝐚𝐫𝐬𝐡𝐢𝐧𝐞 𝐏𝐞𝐭𝐫𝐨𝐜𝐡𝐞𝐦𝐢𝐜𝐚𝐥 𝐂𝐨𝐫𝐩𝐨𝐫𝐚𝐭𝐢𝐨𝐧 𝐋𝐢𝐦𝐢𝐭𝐞𝐝 - Hong Kong-based front company
+• 𝐕𝐢𝐠𝐨𝐫𝐨𝐮𝐬 𝐓𝐫𝐚𝐝𝐢𝐧𝐠 𝐋𝐢𝐦𝐢𝐭𝐞𝐝 - Hong Kong-based front company
+• 𝐀𝐥𝐢𝐞𝐞𝐧 𝐆𝐨𝐨𝐝𝐬 𝐖𝐡𝐨𝐥𝐞𝐬𝐚𝐥𝐞𝐫𝐬 𝐋𝐋𝐂 - UAE-based front company
+• 𝐁𝐨𝐥𝐝 𝐓𝐫𝐚𝐝𝐢𝐧𝐠 𝐅𝐙𝐄 - UAE-based front company
+• 𝐌𝐚𝐭𝐞𝐫𝐢𝐮𝐦 𝐆𝐫𝐨𝐮𝐩 𝐅𝐙𝐄 - UAE-based front company
+• 𝐁𝐞𝐬𝐭𝐟𝐨𝐫𝐭𝐮𝐧𝐚 𝐂𝐨𝐦𝐩𝐚𝐧𝐲 𝐋𝐢𝐦𝐢𝐭𝐞𝐝 - Hong Kong-based front company
+• 𝐂𝐡𝐞𝐧𝐠 𝐏𝐚𝐧 𝐂𝐨., 𝐋𝐢𝐦𝐢𝐭𝐞𝐝 - Hong Kong-based front company
+
+𝐕𝐄𝐒𝐒𝐄𝐋𝐒 (𝐒𝐡𝐚𝐝𝐨𝐰 𝐅𝐥𝐞𝐞𝐭):
+• 𝐆𝐑𝐄𝐀𝐓 𝐒𝐀𝐈𝐋 (IMO 9177583) - Barbados-flagged LPG tanker, owned by Great Sail Shipping Limited
+• 𝐎𝐂𝐄𝐀𝐍 𝐖𝐀𝐕𝐄 (IMO 9387152) - Palau-flagged products tanker, owned by Ow Maritime Incorporated
+• 𝐒𝐖𝐈𝐅𝐓 𝐅𝐀𝐋𝐂𝐎𝐍 (IMO 9246803) - Panama-flagged chemical/oil tanker, owned by Arden Angel Shipping Company Limited
+• 𝐌𝐈𝐆𝐇𝐓𝐘 𝐍𝐀𝐕𝐈𝐆𝐀𝐓𝐎𝐑 (IMO 9206396) - Hong Kong-flagged LPG tanker, owned by Verda Gas Co Ltd
+• 𝐌𝐈𝐃𝐀𝐒 (IMO 9266841) - Panama-flagged crude oil tanker, owned by Ocean Marvel Shipping Company Limited
+• 𝐁𝐑𝐈𝐆𝐇𝐓 𝐆𝐎𝐋𝐃 (IMO 9171503) - Panama-flagged chemical/oil tanker, owned by GS Chemical Transportation Limited
+• 𝐃𝐎𝐔𝐁𝐋𝐄 𝐈𝐍 (IMO 8917807) - San Marino-flagged LPG tanker, owned by Science Obedient International Company Limited
+• 𝐍𝐀𝐑𝐒𝐈𝐒 (IMO 9408358) - Cameroon-flagged chemical/oil tanker, owned by Sun Ocean Shipping Incorporated
+• 𝐆 𝐉𝐀𝐃𝐄𝐒 (IMO 9131096) - Comoros-flagged LPG tanker, owned by Gjades Shipping Company Limited
+• 𝐆𝐀𝐒 𝐄𝐍𝐃𝐔𝐑𝐀𝐍𝐂𝐄 (IMO 9240419) - Gabon-flagged LPG tanker, owned by Aquila Worldwide Marine Developments Corp.
+• 𝐎𝐂𝐄𝐀𝐍 𝐑𝐀𝐃𝐈𝐀𝐍𝐂𝐄 (IMO 9194969) - Palau-flagged LPG tanker, owned by Aurora Business Company Limited
+• 𝐐𝐔𝐀𝐍𝐓𝐔𝐌 𝐒𝐓𝐀𝐑 (IMO 9225342) - Panama-flagged LPG tanker, owned by Taurus Gas Company Limited
+• 𝐆𝐀𝐒 𝐒𝐓𝐑𝐄𝐍𝐆𝐓𝐇 (IMO 9172636) - Panama-flagged LPG tanker, owned by Veinto Global Marine Inc.
+• 𝐅𝐄𝐀𝐃𝐒𝐇𝐈𝐏 (IMO 9322279) - Vanuatu-flagged crude oil tanker, owned by Mozart Maritime Inc.
+• 𝐕𝐀𝐒𝐋𝐀𝐓𝐈 (IMO 9252333) - Cameroon-flagged crude oil tanker, owned by Splendid Lexy Trading Company Ltd
+• 𝐃𝐀𝐊𝐔𝐒𝐇 (IMO 9278698) - Cook Islands-flagged crude oil tanker, owned by Mekong Lines Inc.
+• 𝐓𝐄𝐉𝐀𝐒 (IMO 9326067) - Panama-flagged crude oil tanker, owned by Romy Lines Incorporated
+• 𝐋𝐔𝐍𝐀 𝐋𝐔𝐒𝐓𝐄𝐑 (IMO 9292187) - Sierra Leone-flagged oil tanker, owned by Global Fortune Shipping Limited
+• 𝐆𝐀𝐋𝐀 𝐑𝐎𝐒𝐄 (IMO 9126015) - Hong Kong-flagged chemical/oil tanker, owned by Sparkling Courage Limited
+
+𝐊𝐄𝐘 𝐓𝐄𝐂𝐇𝐍𝐈𝐂𝐀𝐋 𝐃𝐄𝐓𝐀𝐈𝐋𝐒:
+• Action taken pursuant to E.O. 13902 targeting Iran's financial, petroleum, and petrochemical sectors
+• State Department's Rewards for Justice program offers up to $15 million for information disrupting IRGC financial mechanisms
+• Economic Fury has disrupted billions in projected oil revenue and led to freezing of nearly $500 million in regime-linked cryptocurrency
+• Treasury warns of potential secondary sanctions on foreign financial institutions, including those connected to China's "teapot" refineries
+• All designated vessel-owning companies also sanctioned under petroleum/petrochemical sector authorities
+
+ترجمه فارسی در بخش نظرات
+
+𝕏 · @shin_persian
+</div>
+
+## ManotoTV — post 105640
+
+<div align="center">
+  <a href="telegram/content/ManotoTV_105640_1779201166.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+سازمان جهانی بهداشت شیوع ابولا در جمهوری دموکراتیک کنگو و اوگاندا را وضعیت اضطراری بهداشت عمومی با اهمیت بین‌المللی اعلام کرده است. تاکنون ده‌ها مورد مشکوک و چندین مورد مرگ ثبت شده و برخی مبتلایان از کنگو به اوگاندا سفر کرده‌اند.
+سازمان جهانی بهداشت این وضعیت را به دلیل گسترش فرامرزی، افزایش سریع موارد، مرگ کادر درمان و ضعف زیرساخت‌های بهداشتی اضطراری اعلام کرده است.
+در واکنش به شیوع، برخی کشورها از جمله آمریکا محدودیت‌های سفر اعمال کرده و تیم‌های بین‌المللی برای کنترل بیماری به منطقه اعزام شده‌اند.
+مقامات تاکید کرده‌اند خطر برای عموم مردم خارج از مناطق درگیر پایین است، اما بیماری از طریق تماس مستقیم با مایعات بدن افراد مبتلا منتقل می‌شود و می‌تواند کشنده باشد. علائم بیماری شامل تب ناگهانی، خستگی شدید، درد عضلانی، اسهال، استفراغ و در موارد شدید خونریزی است.
+</div>
+
+## Hranews — post 113041
+
+<div align="center">
+  <img src="telegram/content/Hranews_113041_1779201167.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+جرائم مواد مخدر؛ یک زندانی در زندان تربت حیدریه اعدام شد
+
+
+❗️
+❗️
+❗️
+❗️
+❗️– سحرگاه روز شنبه ۲۶ اردیبهشت ماه، حکم یک زندانی که پیشتر از بابت اتهامات مرتبط با جرائم مواد مخدر به اعدام محکوم شده بود، در زندان تربت حیدریه به اجرا درآمد.
+
+به گزارش خبرگزاری هرانا، ارگان خبری مجموعه فعالان حقوق بشر در ایران، حکم #اعدام یک زندانی در زندان تربت حیدریه اجرا شد.
+
+هویت این زندانی که سحرگاه روز شنبه ۲۶ اردیبهشت ۱۴۰۵ به چوبه دار آویخته شد، ابراهیم فرهادی توپکانلو، ۴۸ساله، پدر سه فرزند و اهل سبزوار، توسط هرانا احراز شده است.
+
+ادامه مطلب
+
+#ابراهیم_فرهادی_توپکانلو
+
+↘️
+@hranews_bot تماس ✉️ - @Hranews کانال هرانا 🆑
+</div>
+
+## manototv — post 105640
+
+<div align="center">
+  <a href="telegram/content/manototv_105640_1779201167.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+سازمان جهانی بهداشت شیوع ابولا در جمهوری دموکراتیک کنگو و اوگاندا را وضعیت اضطراری بهداشت عمومی با اهمیت بین‌المللی اعلام کرده است. تاکنون ده‌ها مورد مشکوک و چندین مورد مرگ ثبت شده و برخی مبتلایان از کنگو به اوگاندا سفر کرده‌اند.
+سازمان جهانی بهداشت این وضعیت را به دلیل گسترش فرامرزی، افزایش سریع موارد، مرگ کادر درمان و ضعف زیرساخت‌های بهداشتی اضطراری اعلام کرده است.
+در واکنش به شیوع، برخی کشورها از جمله آمریکا محدودیت‌های سفر اعمال کرده و تیم‌های بین‌المللی برای کنترل بیماری به منطقه اعزام شده‌اند.
+مقامات تاکید کرده‌اند خطر برای عموم مردم خارج از مناطق درگیر پایین است، اما بیماری از طریق تماس مستقیم با مایعات بدن افراد مبتلا منتقل می‌شود و می‌تواند کشنده باشد. علائم بیماری شامل تب ناگهانی، خستگی شدید، درد عضلانی، اسهال، استفراغ و در موارد شدید خونریزی است.
+</div>
+
+## alonews — post 121117
+
+<div align="center">
+  <a href="telegram/content/alonews_121117_1779201167.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈فرمانده ارشد ناتو، الکسوس گرینکوویچ: در مجموع ۵۰۰۰ نیروی نظامی آمریکا از اروپا خارج خواهند شد.
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 121116
+
+<div align="center">
+  <a href="telegram/content/alonews_121116_1779201169.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈وزارت دفاع امارات متحده عربی مدعی شد نتایج تحقیقات فنی مربوط به حمله به نیروگاه هسته‌ای براکه در تاریخ ۱۷ مه ۲۰۲۶ تأیید کرد که هر سه پهپاد مهاجم از خاک عراق پرواز کرده‌اند
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/29 17:52
 ---
 
