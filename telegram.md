@@ -7,6 +7,200 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/29 14:02
+---
+
+## VahidOOnLine — post 240939
+
+<div align="center">
+  <a href="telegram/content/VahidOOnLine_240939_1779186779.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+علیرضا رئیسی، معاون بهداشت وزارت بهداشت، اعلام کرد جمعیت ایران بر اساس آخرین آمار به ۸۶ میلیون و ۵۶۴ هزار نفر رسیده است.
+به گفته او، از این تعداد ۴۳ میلیون و ۶۵۸ هزار نفر مرد و ۴۲ میلیون و ۹۰۶ هزار نفر زن هستند.
+‌🏁 🇬🇧 ManotoTV
+
+🤖 @VahidOOnLine
+</div>
+
+## VahidOOnLine — post 240938
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_240938_1779186780.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+الی کوهن، وزیر انرژی و عضو کابینه سیاسی-امنیتی اسرائیل، گفت: «رهبر جمهوری اسلامی پنهان شده و تحت فشار است. محاصره هرمز اقتصاد ایران را به سمت فروپاشی می‌برد و اگر تهران برنامه هسته‌ای را از سر بگیرد، اسرائیل حمله خواهد کرد.»
+
+او افزود: «اسرائیل اجازه نخواهد داد جمهوری اسلامی به سلاح هسته‌ای نزدیک شود و برای حفظ برتری نظامی خود بیش از ۱۰۰ میلیارد دلار سرمایه‌گذاری خواهد کرد.»
+‌🏁 🇬🇧 IranintlTV
+
+🤖 @VahidOOnLine
+</div>
+
+## WithYashar — post 11643
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+😾
+</div>
+
+## WithYashar — post 11642
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+سخنگوی ارتش: ارتش ایران، دوره آتش بس را به منزله دوران جنگ تلقی کرده و از این فرصت برای تقویت توان رزمی خود استفاده کرده است.
+
+اگر دشمن حماقت کند و مجدداً در دام اسرائیل گرفتار شود و دست به تجاوزی دیگر به ایران عزیز ما بزند، با ابزارها و شیوه‌های جدید جبهه‌های جدیدی را علیه آنها خواهیم گشود.
+@withyashar
+</div>
+
+## WithYashar — post 11641
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+اتاق جنگ با شما : پالایشگاه بندرعباس تخلیه شد همین الان
+@withyashar
+</div>
+
+## WithYashar — post 11640
+
+
+
+
+## WithYashar — post 11639
+
+<div align="center">
+  <a href="telegram/content/WithYashar_11639_1779186781.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+بمب اتمی کره شمالی
+@withyashar
+</div>
+
+## IranIntlTV — post 337910
+
+<div align="center">
+  <img src="telegram/content/IranIntlTV_337910_1779186784.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+الی کوهن، وزیر انرژی و عضو کابینه سیاسی-امنیتی اسرائیل، گفت: «رهبر جمهوری اسلامی پنهان شده و تحت فشار است. محاصره هرمز اقتصاد ایران را به سمت فروپاشی می‌برد و اگر تهران برنامه هسته‌ای را از سر بگیرد، اسرائیل حمله خواهد کرد.»
+
+او افزود: «اسرائیل اجازه نخواهد داد جمهوری اسلامی به سلاح هسته‌ای نزدیک شود و برای حفظ برتری نظامی خود بیش از ۱۰۰ میلیارد دلار سرمایه‌گذاری خواهد کرد.»
+https://iranintl.com/202605196327
+</div>
+
+## IranIntlTV — post 337909
+
+<div align="center">
+  <img src="telegram/content/IranIntlTV_337909_1779186784.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔻روزنامه نیویورک‌پست گزارش داد قیمت بلیت‌های جام جهانی ۲۰۲۶ به‌طور قابل توجهی کاهش یافته است.
+
+🔹بر اساس این گزارش، برگزارکنندگان جام جهانی در ایالات متحده، کانادا و مکزیک با استقبال کمتر از انتظار هواداران روبه‌رو شده‌اند و همین مسئله باعث افت قیمت بلیت‌ها شده است.
+
+🔹نیویورک‌پست نوشت برخی بلیت‌ها که پیش‌تر با قیمت‌های بسیار بالا عرضه شده بودند، اکنون با کاهش چشمگیر قیمت فروخته می‌شوند. نگرانی درباره هزینه بالای سفر، اقامت و حمل‌ونقل در شهرهای میزبان از جمله دلایل کاهش تقاضا عنوان شده است.
+
+🔹این گزارش همچنین به نگرانی مقام‌های فیفا درباره تصاویر ورزشگاه‌های نیمه‌خالی اشاره کرده و نوشته است برگزارکنندگان در تلاش‌اند با کاهش قیمت‌ها و طرح‌های تشویقی، فروش بلیت‌ها را افزایش دهند.
+
+🔹جام جهانی ۲۰۲۶ برای نخستین‌بار با حضور ۴۸ تیم برگزار خواهد شد و گستردگی جغرافیایی مسابقات، چالش‌های تازه‌ای برای هواداران ایجاد کرده است.
+
+@iranintltvsport
+</div>
+
+## ManotoTV — post 105628
+
+<div align="center">
+  <a href="telegram/content/ManotoTV_105628_1779186785.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+علیرضا رئیسی، معاون بهداشت وزارت بهداشت، اعلام کرد جمعیت ایران بر اساس آخرین آمار به ۸۶ میلیون و ۵۶۴ هزار نفر رسیده است.
+به گفته او، از این تعداد ۴۳ میلیون و ۶۵۸ هزار نفر مرد و ۴۲ میلیون و ۹۰۶ هزار نفر زن هستند.
+</div>
+
+## IranianMinds — post 20379
+
+<div align="center">
+  <img src="telegram/content/IranianMinds_20379_1779186786.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+این چی بود من دیدم
+
+@IranianMinds
+</div>
+
+## IranianMinds — post 20378
+
+<div align="center">
+  <a href="telegram/content/IranianMinds_20378_1779186787.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+💥 با هر ثبت نام 
+🅰️
+🅰️
+🅰️ هزار تومن جایزه بگیرید
+
+
+✔️ میتونید شرط‌بندی کنید و بونوس را به موجودی واقعی تبدیل کنید
+
+⚽️  پوشش کامل مسابقات ورزشی 
+
+💯  پیش‌بینی با بهترین ضرایب 
+
+⭐️ تجربه سریع و حرفه‌ای
+
+
+💰پرداخت مستقیم و سریع بدون واسطه، بدون دردسر، واریز و برداشت در سریع‌ترین زمان ممکن
+
+
+☑️ کانال تلگرام: 
+
+➡️ @winro_io  
+
+
+🎁 هدیه خود را با ثبت نام در سایت دریافت کنید: 
+
+➡️ Winro.io
+R29
+سایت اصلی در روزهای آینده بازگشایی خواهد شد A
+💎
+</div>
+
+## manototv — post 105628
+
+<div align="center">
+  <a href="telegram/content/manototv_105628_1779186788.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+علیرضا رئیسی، معاون بهداشت وزارت بهداشت، اعلام کرد جمعیت ایران بر اساس آخرین آمار به ۸۶ میلیون و ۵۶۴ هزار نفر رسیده است.
+به گفته او، از این تعداد ۴۳ میلیون و ۶۵۸ هزار نفر مرد و ۴۲ میلیون و ۹۰۶ هزار نفر زن هستند.
+</div>
+
+## alonews — post 121053
+
+<div align="center">
+  <a href="telegram/content/alonews_121053_1779186789.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈امتحانات مدارس در البرز غیرحضوری شد
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 121052
+
+<div align="center">
+  <a href="telegram/content/alonews_121052_1779186789.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈سخنگوی شورای شهر تهران: از فردا مترو و بی‌آرتی در تهران رایگان نیست و مهمونی بسه
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/29 13:52
 ---
 
