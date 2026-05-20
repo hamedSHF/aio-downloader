@@ -7,6 +7,72 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/30 09:13
+---
+
+## IranIntlTV — post 338030
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_338030_1779255781.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+بنابر گزارش وب‌سایت اتلتیک، فدراسیون جهانی فوتبال، فیفا، ممکن است به درخواست جمهوری اسلامی ورود پرچم شیر و خورشید به ورزشگاه‌های جام جهانی ۲۰۲۶ را ممنوع کند.
+
+گفت‌وگو با عرفان قانعی‌فرد، تحلیل‌گر خاورمیانه
+@iranintltv
+</div>
+
+## alonews — post 121201
+
+<div align="center">
+  <a href="telegram/content/alonews_121201_1779255784.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈رئیس‌جمهور چین: جنگ در خاورمیانه باید فورا تمام شود
+
+
+🔴از سرگیری درگیری غیر قابل قبول‌ است
+
+
+🔴تعهد به مذاکرات به‌ویژه حیاتی است
+
+
+🔴اوضاع در خاورمیانه در مرحله‌ای تعیین‌کننده و آماده گذار از جنگ به صلح است.
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 121200
+
+<div align="center">
+  <a href="telegram/content/alonews_121200_1779255787.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈بهمن فرزانه؛ قاتل الهه حسین نژاد صبح امروز اعـدام شد.
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+## alonews — post 121199
+
+<div align="center">
+  <a href="telegram/content/alonews_121199_1779255787.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈ترامپ درباره ایران: ما همه چیز را نابود می‌کنیم و این جنگ را خیلی سریع به پایان می‌رسانیم.
+آن‌ها آنقدر خسته‌اند که می‌خواهند به شدت معامله کنند.
+
+🔴این باید ۴۷ سال پیش اتفاق می‌افتاد. کسی باید کاری درباره‌اش انجام می‌داد. کسی باید کاری درباره‌اش انجام می‌داد.
+
+🔴این اتفاق خواهد افتاد و خیلی سریع خواهد بود.
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/30 09:03
 ---
 
