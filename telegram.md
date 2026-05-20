@@ -7,6 +7,266 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/02/30 17:43
+---
+
+## VahidOOnLine — post 241149
+
+<div align="center">
+  <img src="telegram/content/VahidOOnLine_241149_1779286437.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+سایت رویداد۲۴ گزارش داد یک مرد جوان مجرد از جنگ‌زدگان ساکن هتل لاله تهران، در روزهای ابتدایی جنگ و در پی فشار شدید روانی ناشی از جنگ، آوارگی و بی‌خانمانی خودکشی کرده و جان باخته است.
+
+بر اساس این گزارش، علیرضا رئیسی، معاون وزیر بهداشت، گفته بود وزارت بهداشت برای ارائه مشاوره‌های روان‌شناختی به آوارگان آمادگی کامل داشته، اما شهرداری تهران از ورود تیم‌های متخصص این وزارتخانه جلوگیری کرده است.
+
+در مقابل، محمد صاحب، مدیرکل سلامت شهرداری تهران، این صحبت‌ها را رد کرد و گفت پیشنهاد همکاری وزارت بهداشت «بسیار دیر» و پس از آتش‌بس ارائه شد؛ زمانی که به گفته او، شهرداری از قبل مقدمات خدمات‌رسانی را فراهم کرده بود.
+
+(به توصیه کارشناسان، اگر با فردی روبه‌رو شدید که از جملات یا عباراتی حاکی از افسردگی یا تمایل به پایان زندگی استفاده می‌کند، از او بخواهید با یک پزشک متخصص معتمد، نهادهای فعال در این زمینه یا فردی مورد اعتماد درباره نگرانی‌هایش صحبت کند. اگر خودتان به خودکشی فکر می‌کنید، در ایران می‌توانید با اورژانس اجتماعی با شماره ۱۲۳ تماس بگیرید.)
+‌🏁 🇬🇧 IranintlTV
+
+🤖 @VahidOOnLine
+</div>
+
+## WithYashar — post 11759
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+ترامپ درباره ایران:
+
+اکنون در ایران خشم زیادی وجود دارد زیرا مردم زندگی بسیار بدی دارند.
+@withyashar
+</div>
+
+## WithYashar — post 11758
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+خبرنگار: درباره جنگ ایران چی میگید؟
+
+ترامپ: بذار اینجوری بگم، شما تو ویتنام 19 سال توی جنگ بودید، جنگ جهانی دوم 4 سال بودید؛ من 3 ماهه تو ایران درگیرم، خیلیاش هم آتش‌بس بوده. تو دوتا جنگ، ونزوئلا و اینجا، ما 13 نفر از دست دادیم، تو جنگ‌های دیگه صدها هزار نفر کشته دادید. ما عملاً ونزوئلا رو گرفتیم تقریباً هم ایران رو هم گرفتیم.
+@withyashar
+</div>
+
+## WithYashar — post 11757
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+دونالد ترامپ دربارهٔ ایران:
+من هیچ عجله‌ای ندارم. همه می‌گویند: «انتخابات میان‌دوره‌ای.» من هیچ عجله‌ای ندارم.
+@withyashar
+</div>
+
+## mwarmonitor — post 9349
+
+<div align="center">
+  <a href="telegram/content/mwarmonitor_9349_1779286438.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔹خبرنگار: آیا این موضوع بیشتر از اون چیزی که انتظار داشتید طول کشیده که بخواهید با ایران به توافق برسید؟
+🔸دونالد ترامپ: خب، بذار این‌طوری بهش نگاه کنیم؛ شما ۱۹ سال در ویتنام بودید، درسته؟ شما ۱۰ سال در افغانستان و این جاهای دیگه بودید. شما در عراق بودید؛ چقدر در عراق بودید؟ ۱۲ سال؟ ۱۲ سال. شما برای ۷ سال در کره بودید. جنگ جهانی دوم متفاوته، اون ۴ سال بود.
+من برای ۳ ماهه که وارد شدم، و بخش زیادی از اون هم آتش‌بس بوده، بنابراین... و می‌دونی چیه؟ شما صدها هزار سرباز رو در این جنگ‌های مختلف از دست دادید. در دو جنگ؛ ونزوئلا، که ما هیچ‌کس رو از دست ندادیم، و اینجا، ما ۱۳ نفر رو از دست دادیم.
+حالا، ۱۳ نفر، ۱۳ نفر هم زیاده، اما ما ۱۳ نفر رو از دست دادیم. در جنگ‌های دیگه، شما صدها هزار نفر رو از دست دادید.
+
+@mwarmonitor
+</div>
+
+## mwarmonitor — post 9348
+
+<div align="center">
+  <a href="telegram/content/mwarmonitor_9348_1779286441.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔹خبرنگار: درباره ایران، آیا یک توافق محدود، فقط برای یک آتش‌بس طولانی‌تر [ممکنه]؟
+🔸دونالد ترامپ: آن‌ها باید تنگه را باز کنند، این کار باید فوراً انجام شود. بنابراین ما به این [موضوع] یک فرصت می‌دهیم. من هیچ عجله‌ای ندارم. می‌دانید، مردم فکر می‌کنند «اوه، انتخابات میان‌دوره‌ای در پیش است، پس او عجله دارد»؛ من هیچ عجله‌ای ندارم. من فقط... از نظر ایده‌آل دوست دارم آدم‌های کمتری کشته شوند تا اینکه تعداد زیادی کشته شوند. ما می‌توانیم این کار را از هر دو طریق انجام دهیم، اما... اما من ترجیح می‌دهم آدم‌های کمتری کشته شوند.
+من فقط در این فکرم که آیا آن‌ها خیر و صلاح مردم را می‌خواهند یا نه، چون برخی از کارهایی که دارند انجام می‌دهند به نظر من یعنی آن‌ها خیر و صلاح مردم را نمی‌خواهند، در حالی که باید صلاح مردم را بخواهند.
+اممم... در حال حاضر خشم زیادی در ایران وجود دارد چون مردم در وضعیت بسیار بدی زندگی می‌کنند. ناآرامی و تلاطم زیادی وجود دارد که ما قبلاً تا این حد شاهدش نبوده‌ایم. و حالا باید ببینیم چه می‌شود.
+
+@mwarmonitor
+</div>
+
+## FoxNewsTwitter — post 341991
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+‌Fox News (Twitter/X)
+
+https://www.foxnews.com/politics/fmr-dem-rep-barney-frank-sharp-tongued-liberal-trailblazer-dodd-frank-co-author-dies
+</div>
+
+## FoxNewsTwitter — post 341990
+
+<div align="center">
+  <img src="telegram/content/FoxNewsTwitter_341990_1779286444.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+WATCH LIVE: House Judiciary hearing on the Southern Poverty Law Center https://twitter.com/i/broadcasts/1rGmqoPmNLBGy
+</div>
+
+## FoxNewsTwitter — post 341989
+
+<div align="center">
+  <img src="telegram/content/FoxNewsTwitter_341989_1779286445.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+WATCH LIVE: Senate hearing examining sports betting in America. https://twitter.com/i/broadcasts/1qxoNeomOpEJv
+</div>
+
+## FoxNewsTwitter — post 341988
+
+<div align="center">
+  <a href="telegram/content/FoxNewsTwitter_341988_1779286445.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+BREAKING: President Trump comes out in support of former reality TV star Spencer Pratt’s and his political rise in the race to be the next mayor of Los Angeles.
+
+When asked if he sees any similarities between himself and the fellow reality-television-star-turned-politician, Trump noted Pratt's unique personality and popular appeal.
+
+"Oh, I'd like to see him do well... He's a character."
+</div>
+
+## IranIntlTV — post 338090
+
+<div align="center">
+  <img src="telegram/content/IranIntlTV_338090_1779286448.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+سایت رویداد۲۴ گزارش داد یک مرد جوان مجرد از جنگ‌زدگان ساکن هتل لاله تهران، در روزهای ابتدایی جنگ و در پی فشار شدید روانی ناشی از جنگ، آوارگی و بی‌خانمانی خودکشی کرده و جان باخته است.
+
+بر اساس این گزارش، علیرضا رئیسی، معاون وزیر بهداشت، گفته بود وزارت بهداشت برای ارائه مشاوره‌های روان‌شناختی به آوارگان آمادگی کامل داشته، اما شهرداری تهران از ورود تیم‌های متخصص این وزارتخانه جلوگیری کرده است.
+
+در مقابل، محمد صاحب، مدیرکل سلامت شهرداری تهران، این صحبت‌ها را رد کرد و گفت پیشنهاد همکاری وزارت بهداشت «بسیار دیر» و پس از آتش‌بس ارائه شد؛ زمانی که به گفته او، شهرداری از قبل مقدمات خدمات‌رسانی را فراهم کرده بود.
+
+(به توصیه کارشناسان، اگر با فردی روبه‌رو شدید که از جملات یا عباراتی حاکی از افسردگی یا تمایل به پایان زندگی استفاده می‌کند، از او بخواهید با یک پزشک متخصص معتمد، نهادهای فعال در این زمینه یا فردی مورد اعتماد درباره نگرانی‌هایش صحبت کند. اگر خودتان به خودکشی فکر می‌کنید، در ایران می‌توانید با اورژانس اجتماعی با شماره ۱۲۳ تماس بگیرید.)
+https://iranintl.com/202605200313
+</div>
+
+## IranIntlTV — post 338089
+
+<div align="center">
+  <a href="telegram/content/IranIntlTV_338089_1779286449.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+دونالد ترامپ، رییس‌جمهوری آمریکا، گفت: «در ایران خشم زیادی وجود دارد و ناآرامی بی‌سابقه‌ای شکل گرفته است و خواهیم دید چه اتفاقی می‌افتد.» او همچنین تاکید کرد درباره توافق محدود مرتبط با تنگه هرمز عجله‌ای ندارد.
+@iranintltv
+</div>
+
+## Shin_Persian — post 6113
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+📦 mhrv-rs v1.9.33 released
+
+• In Full Tunnel mode, fully idle sessions now use a stronger empty-keepalive backoff, and when every deployment is detected as legacy they stop sending repeated empty polls after going idle
+• For mixed fleets where at least one deployment still has healthy long-poll support, the client keeps emitting empty polls so round-robin can still reach that healthy peer and remote→client data doe…
+
+Files (Android APKs, Windows, macOS, Linux, OpenWRT) on the files channel:
+
+👉 v1.9.33 — all files with SHA-256
+
+Channel:
+https://t.me/mhrv_rs
+or: https://t.me/+R1OyoHX2boA1ZDgx
+
+#v1933
+</div>
+
+## FarsiVOA — post 218222
+
+<div align="center">
+  <img src="telegram/content/FarsiVOA_218222_1779286452.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+فرماندهی مرکزی ایالات متحده، سنتکام، در یک به‌روز‌رسانی تازه اعلام کرد که از زمان اجرای محاصره دریایی جمهوری اسلامی تا ۳۰ اردیبهشت، نیروهای آمریکایی ۹۰ کشتی را وادار به تغییر مسیر کرده‌اند و ۴ کشتی را غیرفعال کرده‌اند.
+
+سنتکام همچنین تصویری از یک هلیکوپتر تهاجمی (ای‌اچ-۱زد وایپر) در حال گشت‌زنی نزدیک یک کشتی تجاری در آب‌های منطقه منتشر کرده است.
+</div>
+
+## RadioFarda — post 157391
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔸محمدباقر قالیباف، رئیس مجلس شورای اسلامی، ادعا کرد که آمریکا به دنبال دور جدید جنگ علیه ایران است و باید واشینگتن را از تسلیم شدن تهران ناامید کرد. 🔸او در یک فایل صوتی که رسانه‌های ایران روز چهارشنبه ۳۰ اردیبهشت منتشر کردند، با اشاره به برقراری آتش‌بس میان…
+</div>
+
+## RadioFarda — post 157390
+
+<div align="center">
+  <img src="telegram/content/RadioFarda_157390_1779286453.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔸محمدباقر قالیباف، رئیس مجلس شورای اسلامی، ادعا کرد که آمریکا به دنبال دور جدید جنگ علیه ایران است و باید واشینگتن را از تسلیم شدن تهران ناامید کرد.
+
+🔸او در یک فایل صوتی که رسانه‌های ایران روز چهارشنبه ۳۰ اردیبهشت منتشر کردند، با اشاره به برقراری آتش‌بس میان ایران و آمریکا گفت: «تحرکات آشکار و پنهان دشمن نشان می‌دهد که دشمن به موازات فشارهای اقتصادی و سیاسی از اهداف نظامی خود دست نکشیده و به دنبال دور جدیدی از جنگ و ماجراجویی جدید است.»
+
+🔸دونالد ترامپ، رئیس‌جمهور آمریکا، روز دوشنبه گفت که ارتش این کشور قرار بود روز سه‌شنبه حملاتی علیه ایران انجام دهد اما او به درخواست شماری از کشورهای منطقه و برای رسیدن به توافق پایان جنگ با ایران، دستور لغو این حملات را داده است.
+
+🔸آقای ترامپ در عین حال روز سه‌شنبه هشدار داد که ایران تنها چند روز برای رسیدن به توافق با آمریکا وقت دارد و در غیر این‌صورت شاید لازم شود «ضربه بزرگ» دیگری به آن وارد شود.
+
+@RadioFarda
+</div>
+
+## IranianMinds — post 20443
+
+<div align="center">
+  <a href="telegram/content/IranianMinds_20443_1779286454.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+🔴 ترامپ درباره ایران:
+
+«الان خشم زیادی در ایران وجود دارد چون مردم شرایط زندگی بسیار بدی دارند.»
+
+@IranianMinds
+</div>
+
+## Hranews — post 113062
+
+<div align="center">
+  <img src="telegram/content/Hranews_113062_1779286457.jpg" alt="Photo">
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+در نهمین روز بازداشت؛ خانواده مهدی شفاخواه همچنان از وضعیت او بی خبرند
+
+
+❗️
+❗️
+❗️
+❗️
+❗️– کماکان از سرنوشت مهدی شفاخواه، فعال حوزه آموزش و حمایت از کودکان کار و ساکنان مناطق محروم که ۹ روز پیش در تهران بازداشت شد، اطلاعی حاصل نشده است. این وضعیت منجر به افزایش نگرانی‌های خانواده آقای شفاخواه شده است.
+
+به گزارش خبرگزاری هرانا، ارگان خبری مجموعه فعالان حقوق بشر در ایران، مهدی شفاخواه، فعال اجتماعی کماکان در بازداشت به‌سر می‌برد.
+
+یک منبع مطلع از وضعیت این فعال اجتماعی ضمن تایید این خبر به هرانا گفت: ۹ روز است که از بازداشت آقای شفاخواه می‌گذرد و وی همچنان از دسترسی به وکیل محروم مانده است. با وجود مراجعه برادر او، رضا شفاخواه، که خود وکیل دادگستری است، به خانواده اعلام شده که وی تنها امکان استفاده از وکلای مورد تأیید تبصره ماده ۴۸ را دارد.
+همچنین، مراجعات مکرر خانواده این شهروند به مراجع قضایی و امنیتی برای کسب اطلاع از سرنوشت وی، تاکنون بی نتیجه بوده است.
+
+#مهدی_شفاخواه
+
+ادامه مطلب
+
+↘️
+@hranews_bot تماس ✉️ - @Hranews کانال هرانا 🆑
+</div>
+
+## alonews — post 121324
+
+<div align="center">
+  <a href="telegram/content/alonews_121324_1779286458.webm" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+👈سخنگوی انجمن صنایع فرآورده‌های لبنی:
+قراره لبنیات از اول خرداد 20 درصد گرون بشه.
+
+
+✅ @AloNews خبر جنگ
+</div>
+
+---
 📅 بروزرسانی: 1405/02/30 17:34
 ---
 
