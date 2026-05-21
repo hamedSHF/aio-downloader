@@ -7,6 +7,49 @@
 <!-- MSG START -->
 
 ---
+📅 بروزرسانی: 1405/03/01 02:43
+---
+
+## FoxNewsTwitter — post 342081
+
+<div align="center">
+  <a href="telegram/content/FoxNewsTwitter_342081_1779405214.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+Fox News (Twitter/X)
+
+FOX NEWS REPORT: The White House says it won't ease pressure on Iran's nuclear program, and President Trump is rejecting any Iranian effort to impose tolls in the Strait of Hormuz.
+
+Travelers from countries impacted by the Ebola outbreak will now be routed through Dulles Airport in Virginia for enhanced health screenings.
+
+@BillMelugin_ has the latest.
+</div>
+
+## VahidOnline — post 75603
+
+<div align="center">
+  <a href="telegram/content/VahidOnline_75603_1779405217.mp4" target="_blank">🎬 Download video</a>
+</div>
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+تصویرسازی از مجتبی خامنه‌ای
+
+وزارت جنگ آمریکا روز پنجشنبه ۳۱ اردیبهشت، با انتشار ویدیویی بر ضرورت افزایش بودجه دفاعی کشور تاکید کرد.
+
+در این ویدیو که ترکیبی از صحنه‌های واقعی، گفته‌های پیت هگست، وزیر جنگ آمریکا و تصاویر کارتونی است، تصویری از مجتبی خامنه‌ای، رهبر جدید جمهوری اسلامی نیز در کنار یک سامانه موشکی دیده می‌آشود در حالی که یک پایش قطع شده است.
+@VahidOOnLine
+
+📡 @VahidOnline
+</div>
+
+## FarsiVOA — post 218336
+
+
+<div dir='rtl' style='font-family: "Vazirmatn", Tahoma, sans-serif;'>
+⚡️آیا پاکستان می‌تواند میانجی موفقی باشد؟
+@FarsiVOA
+</div>
+
+---
 📅 بروزرسانی: 1405/03/01 02:33
 ---
 
