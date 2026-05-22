@@ -1,4 +1,4 @@
-name: "spotify-downloader"
+name: "downloader-spotify"
 
 on:
   workflow_dispatch:
