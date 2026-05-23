@@ -1,1 +1,0 @@
-https://datarepo.eng.ucsd.edu/mcauley_group/data/amazon_2023/raw/review_categories/Kindle_Store.jsonl.gz
